@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/8KKQ0Bq/1000-F-479727473-Jp-CDZF0u4us-NCRNGnus70j-Xp8dq7znij.jpg",
+      "author_name": "John Doe",
+      "author_img": "https://i.ibb.co/4Wxt88G/tamara-bellis-A3-Gd2b-98-g-unsplash.jpg",
+      "reading_time": 10,
+      "title": "The Art of Writing",
+      "hashtags": ["#writing", "#creativity", "#tips"],
+      "upload_date": "2023-09-15"
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/pdyDMM7/top-view-desk-concept-with-coffee.jpg",
+      "author_name": "Jane Smith",
+      "author_img": "https://i.ibb.co/4Nf813H/daniel-gonzalez-Xx-J-HIXw25-M-unsplash.jpg",
+      "reading_time": 8,
+      "title": "Exploring Nature's Wonders",
+      "hashtags": ["#nature", "#travel", "#adventure"],
+      "upload_date": "2023-09-15"
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/PcdHrq3/flat-lay-frame-with-glasses-pen.jpg",
+      "author_name": "David Wilson",
+      "author_img": "https://i.ibb.co/GshD4gD/brooke-cagle-kv-KSL7-B6e-To-unsplash.jpg",
+      "reading_time": 15,
+      "title": "Mastering the Art of Cooking",
+      "hashtags": ["#cooking", "#recipes", "#culinary"],
+      "upload_date": "2023-09-15"
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/pdyDMM7/top-view-desk-concept-with-coffee.jpg",
+      "author_name": "Emily Brown",
+      "author_img": "https://i.ibb.co/fd8M8YG/cesar-rincon-XHVp-Wcr5gr-Q-unsplash.jpg",
+      "reading_time": 12,
+      "title": "A Guide to Healthy Living",
+      "hashtags": ["#health", "#wellness", "#lifestyle"],
+      "upload_date": "2023-09-15"
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/8KKQ0Bq/1000-F-479727473-Jp-CDZF0u4us-NCRNGnus70j-Xp8dq7znij.jpg",
+      "author_name": "Michael Clark",
+      "author_img": "https://i.ibb.co/ZdnbnPk/gift-habeshaw-w1-Xu-Hvzc-Wo-I-unsplash.jpg",
+      "reading_time": 7,
+      "title": "Technology Trends in 2023",
+      "hashtags": ["#technology", "#trends", "#innovation"],
+      "upload_date": "2023-09-15"
+    }
+]
+   
